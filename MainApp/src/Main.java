@@ -1,9 +1,26 @@
 import FindTheSmallestIntegerInTheArray.FindTheSmallestIntegerInTheArray;
+import NumberOfPeopleInTheBus.NumberOfPeopleInTheBus;
+
+import java.util.ArrayList;
 import java.util.Arrays;
 import static TheHighestProfitWins.TheHighestProfitWins.minMax;
 
 public class Main {
     public static void main(String[] args) {
+
+/*
+##############################################
+######    NumberOfPeopleInTheBus   ###########
+##############################################
+
+        ArrayList<int[]> list = new ArrayList<>();
+        list.add(new int[] {10,0});
+        list.add(new int[] {3,5});
+        list.add(new int[] {2,5});
+
+        System.out.println(NumberOfPeopleInTheBus.countPassengers(list));
+*/
+
 
 /*
 ##############################################
