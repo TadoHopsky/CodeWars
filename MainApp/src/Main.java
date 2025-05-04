@@ -1,13 +1,24 @@
 import ExesAndOhs.ExesAndOhs;
 import FindTheSmallestIntegerInTheArray.FindTheSmallestIntegerInTheArray;
 import NumberOfPeopleInTheBus.NumberOfPeopleInTheBus;
+import TheMuseumOfIncrediblyDullThings.TheMuseumOfIncrediblyDullThings;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import static TheHighestProfitWins.TheHighestProfitWins.minMax;
 
 public class Main {
+
+/*
+##############################################
+#####   TheMuseumOfIncrediblyDullThings   ####
+##############################################
+
     public static void main(String[] args) {
+        int[] nums = {1,2,3,4,5};
+        System.out.println(Arrays.toString(TheMuseumOfIncrediblyDullThings.removeSmallest(nums)));
+
+*/
 
 /*
 ##############################################
@@ -57,7 +68,8 @@ public class Main {
         System.out.println(Arrays.toString(minMax(someArray1)));
         System.out.println(Arrays.toString(minMax(someArray2)));
         System.out.println(Arrays.toString(minMax(someArray3)));
- */
     }
+ */
+
 }
 
