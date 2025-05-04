@@ -1,3 +1,4 @@
+import ExesAndOhs.ExesAndOhs;
 import FindTheSmallestIntegerInTheArray.FindTheSmallestIntegerInTheArray;
 import NumberOfPeopleInTheBus.NumberOfPeopleInTheBus;
 
@@ -7,6 +8,15 @@ import static TheHighestProfitWins.TheHighestProfitWins.minMax;
 
 public class Main {
     public static void main(String[] args) {
+
+/*
+##############################################
+#############   ExesAndOhs   #################
+##############################################
+
+        System.out.println(ExesAndOhs.getXO("zzoo"));
+ */
+
 
 /*
 ##############################################
