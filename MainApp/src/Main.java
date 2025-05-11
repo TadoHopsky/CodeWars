@@ -3,6 +3,7 @@ import FindTheSmallestIntegerInTheArray.FindTheSmallestIntegerInTheArray;
 import NumberFun.NumberFun;
 import NumberOfPeopleInTheBus.NumberOfPeopleInTheBus;
 import RemoveChars.RemoveChars;
+import RemovingElements.RemovingElements;
 import TheMuseumOfIncrediblyDullThings.TheMuseumOfIncrediblyDullThings;
 
 import java.util.ArrayList;
@@ -11,6 +12,14 @@ import static TheHighestProfitWins.TheHighestProfitWins.minMax;
 
 public class Main {
     public static void main(String[] args) {
+/*
+##############################################
+##########    RemovingElements   #############
+##############################################
+
+        System.out.println(RemovingElements.removeEveryOther());
+ */
+
 
 /*
 ##############################################
