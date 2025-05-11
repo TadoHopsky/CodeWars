@@ -2,6 +2,7 @@ import ExesAndOhs.ExesAndOhs;
 import FindTheSmallestIntegerInTheArray.FindTheSmallestIntegerInTheArray;
 import NumberFun.NumberFun;
 import NumberOfPeopleInTheBus.NumberOfPeopleInTheBus;
+import RemoveChars.RemoveChars;
 import TheMuseumOfIncrediblyDullThings.TheMuseumOfIncrediblyDullThings;
 
 import java.util.ArrayList;
@@ -10,6 +11,15 @@ import static TheHighestProfitWins.TheHighestProfitWins.minMax;
 
 public class Main {
     public static void main(String[] args) {
+
+/*
+##############################################
+#############    RemoveChars   ###############
+##############################################
+
+        System.out.println(RemoveChars.remove("Hello"));
+ */
+
 
 /*
 ##############################################
