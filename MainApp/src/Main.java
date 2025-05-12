@@ -1,3 +1,4 @@
+import ConvertNumberToAString.ConvertNumberToAString;
 import ExesAndOhs.ExesAndOhs;
 import FindTheSmallestIntegerInTheArray.FindTheSmallestIntegerInTheArray;
 import NumberFun.NumberFun;
@@ -13,6 +14,15 @@ import static TheHighestProfitWins.TheHighestProfitWins.minMax;
 
 public class Main {
     public static void main(String[] args) {
+
+/*
+##############################################
+########    ConvertNumberToAString   #########
+##############################################
+
+        System.out.println( ConvertNumberToAString.numberToString(-123));
+*/
+
 
 /*
 ##############################################
