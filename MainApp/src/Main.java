@@ -5,6 +5,7 @@ import NumberOfPeopleInTheBus.NumberOfPeopleInTheBus;
 import RemoveChars.RemoveChars;
 import RemovingElements.RemovingElements;
 import TheMuseumOfIncrediblyDullThings.TheMuseumOfIncrediblyDullThings;
+import TwiceAsOld.TwiceAsOld;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -12,6 +13,16 @@ import static TheHighestProfitWins.TheHighestProfitWins.minMax;
 
 public class Main {
     public static void main(String[] args) {
+
+/*
+##############################################
+#############    TwiceAsOld   ################
+##############################################
+
+        System.out.println(TwiceAsOld.twiceAsOld(30,0));
+*/
+
+
 /*
 ##############################################
 ##########    RemovingElements   #############
